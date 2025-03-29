@@ -1,2 +1,3 @@
-hello! 👋
-I'm TheNetherPug, a self-taught programmer, 3D artist and indie game dev with a love for Godot, Java and Minecraft modding!
+# hello! 👋
+I'm TheNetherPug, a teenage self-taught programmer, 3D artist and digital composer!<br>
+I have a strong love for Godot, Java and Minecraft modding.
