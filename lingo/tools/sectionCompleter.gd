@@ -82,6 +82,7 @@ func _process(delta):
 	
 	if completedCount != amount:
 		emit_signal("amountChanged", amount)
+	completedCount = amount
 	if completedCount >= requiredAmount:
 		completed = true
 		emit_signal("completed")
